@@ -1,5 +1,7 @@
 import ModrinthStatistics from "./ModrinthStatistics";
-
+import OAuthTokenResponse from "./OAuthTokenResponse;
+    
 export {
-    ModrinthStatistics
+    ModrinthStatistics,
+    OAuthTokenResponse
 }
